@@ -1,3 +1,6 @@
+# I used Linear Regression algorithm on the Data-set of Male-Female voice to classified the voice data as in Male-Female.
+
+
 import numpy as np
 import pandas as pd
 
